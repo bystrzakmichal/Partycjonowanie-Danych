@@ -1,5 +1,5 @@
 ===========================
-2.6. Partycjonowanie danych
+Partycjonowanie danych
 ===========================
 **Autorzy**
 
